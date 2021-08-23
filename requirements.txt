@@ -1,0 +1,13 @@
+imutils
+numpy<1.19.0,>=1.16.0
+opencv-python
+matplotlib
+argparse
+scipy==1.4.1
+scikit-learn
+paho-mqtt
+tensorflow>=2.3
+keras
+Pillow>=8.0.1
+
+# psutil>=5.8.0
